@@ -24,7 +24,7 @@ import requests
 import tweepy
 import time
 import os
-from urllib.parse import urlparse
+from urlparse import urlparse
 from glob import glob
 
 # Place your Twitter API keys here
