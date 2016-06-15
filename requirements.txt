@@ -1,4 +1,3 @@
 tweepy
 praw
 requests
-glob
