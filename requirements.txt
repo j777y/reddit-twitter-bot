@@ -1,2 +1,4 @@
 tweepy
 praw
+json
+requests
