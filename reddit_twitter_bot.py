@@ -28,10 +28,10 @@ from urlparse import urlparse
 from glob import glob
 
 # Place your Twitter API keys here
-ACCESS_TOKEN = '701008448360546304-bCi8zCIJJD2D5oMJj1DXf8n9Q7IVntw'
-ACCESS_TOKEN_SECRET = 'UUm10vwmLGgV8vrTPewUCl0HfmlkbjKpmSfrUiLFAVGy1'
-CONSUMER_KEY = 'DCpxbVNiAaXfn3rAmuuG0Cew7'
-CONSUMER_SECRET = 'oV9njr8Dax1JNNu2hbqE6AsBpv28teuxUHkMjHs5Kew0TM92sB'
+ACCESS_TOKEN = '701008448360546304-zXYldDmLvUekBBUuKKz8MYaM6sjsTTA'
+ACCESS_TOKEN_SECRET = 'LGJNMJ92J5kk8pChHbNCHMQ0gHf31EtUKEvUPwGLXrNk3'
+CONSUMER_KEY = 'MM9LNwfsMcJ2tpXds4Z4hMrFW'
+CONSUMER_SECRET = 'pelYS7wzOoNotQUEasM0pAskiKsB6LWyyM3TO3koakzP8KUXtU'
 
 # Place the subreddit you want to look up posts from here
 SUBREDDIT_TO_MONITOR = 'funny'
